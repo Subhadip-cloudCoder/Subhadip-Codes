@@ -48,20 +48,16 @@ I am a passionate computer science student diving deep into the intersection of 
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
-</p>
-
----
-
 ## 📬 Let's Connect!
+
+<p align="left">
+  <a href="mailto:subhadip2622@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/_subha.dip">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 - 💻 **GitHub Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Subhadip-cloudCoder&color=blueviolet&style=flat-square)
 - ✨ Feel free to star my repositories if you find my learning journey interesting!
